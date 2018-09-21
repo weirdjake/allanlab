@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL)"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Integral at BCM"
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+We are Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL). Our aim is to support an international consortium studying the early stages of lung cancer development, deploying research that characterizes the revelance of existing biomarkers [OncoArray](https://www.ncbi.nlm.nih.gov/pubmed/27697780), while developing and evaluating existing and new models for risk assesment using epidemiological, genetic and biomarker informatio and providing data from large scale genetic and epidemiological investigtations to the research community.
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
