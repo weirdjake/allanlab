@@ -1,4 +1,4 @@
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
+﻿- title: "Identification of susceptibility pathways for the role of chromosome 15q25.1 in modifying lung cancer risk."
   image: Fano.png
   description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
   authors: KM Bastiaans, T Benschop, D Chatzopoulos, DH Cho, Q Dong, Y Jin, MP Allan
@@ -8,7 +8,7 @@
   highlight: 1
   news2: 
 
-- title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
+- title: "Mendelian Randomization and mediation analysis of leukocyte telomere length and risk of lung and head and neck cancers."
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
   authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
@@ -18,7 +18,7 @@
   highlight: 1
   news2: 
 
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+- title: "Assessment of Lung Cancer Risk on the Basis of a Biomarker Panel of Circulating Proteins."
   image: dummy.png
   description: ""
   authors: MA Sulangi, MP Allan, J Zaanen
@@ -28,7 +28,7 @@
   highlight: 0
   news2: Coverd in Superconductor Week, November 30, 2017 Vol. 31, No. 10
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
+- title: Rare Variants in Known Susceptibility Loci and Their Contribution to Risk of Lung Cancer.
   image: dummy.png
   description: ""
   authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
@@ -38,7 +38,7 @@
   highlight: 0
   news2: 
 
-- title: Creating better superconductors by periodic nanopatterning
+- title: Genetic modifiers of radon-induced lung cancer risk: a genome-wide interaction study in former uranium miners.
   image: SCAUweb.jpg
   description:
     We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
