@@ -1,9 +1,9 @@
 - name: Chris I Amos
   photo: Amos.jpg
-  info: Assistant Professor, started Jan 2015
-  email: milan.allan@gmail.com
+  info: Associate Director of Quantitative Science Dan L Duncan Comprehensive Cancer Center Baylor College of Medicine
+  email: Chrisa@bcm.edu
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
+  education1: Director for the Institute of Clinical and Translational Medicine Department of Medicine Baylor College of Medicine
   education2: PhD St Andrews (and Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   education3: Postdoc Cornell
   education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
@@ -11,39 +11,40 @@
   
 - name: Paul Brennan
   photo: Brennan.jpg
-  info: Postdoc, started May 2017
-  email: dooheecho80@gmail.com
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-
-- name: Neil Caporaso
-  photo: Neil_Caporaso.jpg
-  info: Postdoc, started May 2018
-  email: aluru@physics.leidenuniv.nl
+  info: Principal Investigator
+  email: brennanp@iarc.fr
   number_educ: 3
-  education1: B.S. Banaras Hindu University, India
-  education2: Master University of Stuttgart
-  education3: PhD University of St Andrews, UK with <a href="http://wahl.wp.st-andrews.ac.uk/">Peter Wahl</a>
+  education1: Section Head
+  education2: Genetics Section
+  education3: Lyon, France
   
-- name: Irene Battisti
-  photo: Rayjean Hung.jpg
-  info: PhD student, started Jan 2015
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
 
-- name: Maarten Leeuwenhoek
+- name: Neil Caporaso, M.D.
+  photo: Neil_Caporaso.jpg
+  info: Senior Investigator
+  email: caporasn@mail.nih.gov
+  number_educ: 3
+  education1: National Cancer Institute
+  education2: Division of Cancer Epidemiology & 
+  education3: Genetics, Occupational and Environmental
+  education4: Epidemiology Branch
+
+- name: David Christian
+  photo: David Christian.jpg
+  info: Professor, Medicine, Harvard Medical School
+  email: dchris@hsph.harvard.edu
+  number_educ: 3
+  education1: Elkan Blout Professor of Environmental Genetics, Environmental Health, Harvard T.H. Chan School Of Public Health
+  education2: Physician, Medicine , Massachusetts General Hospital
+  education3: Director, Harvard Education and Research Center for Occupational Safety and Health, Harvard T.H. Chan School Of Public Health
+  
+- name: Rayjean Hung
+  photo: Rayjean Hung.jpg
+  email: 
+  number_educ: 1
+  education1: 
+
+- name: Prof. John Field
   photo: Maarten.png
   info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
   email: M.Leeuwenhoek@tudelft.nl
