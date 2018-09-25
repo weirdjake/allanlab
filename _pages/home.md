@@ -39,6 +39,7 @@ We are Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL). Our aim
     <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
     </div>
+   </div> 
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -49,6 +50,8 @@ We are Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL). Our aim
   </a>
 </div>
   
+
+
 
 This work was supported by National Institutes of Health (NIH) for the research of lung cancer (grants P30CA023108, P20GM103534, and R01LM012012); Transdisciplinary Research in Cancer of the Lung (TRICL) (grant U19CA148127); UICC American Cancer Society Beginning Investigators Fellowship funded by the Union for International Cancer Control (UICC) (to X.J.).
 
