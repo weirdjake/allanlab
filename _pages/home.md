@@ -8,7 +8,29 @@ permalink: /
 
 We are Integrative Analysis of Lung Cancer Etiology and Risk (INTEGRAL). Our aim is to support an international consortium studying the early stages of lung cancer development, deploying research that characterizes the revelance of existing biomarkers [OncoArray](https://www.ncbi.nlm.nih.gov/pubmed/27697780), while developing and evaluating existing and new models for risk assesment using epidemiological, genetic and biomarker informatio and providing data from large scale genetic and epidemiological investigtations to the research community.
 
-<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover"><!--base32-416pavkn40-base32--><ol class="carousel-indicators"><li data-target="#carousel" data-slide-to="0" class="active">&nbsp;</li><li data-target="#carousel" data-slide-to="1">&nbsp;</li><li data-target="#carousel" data-slide-to="2">&nbsp;</li><li data-target="#carousel" data-slide-to="3">&nbsp;</li><li data-target="#carousel" data-slide-to="4">&nbsp;</li><li data-target="#carousel" data-slide-to="5">&nbsp;</li></ol><!--base32-414q8tbdecg0-base32--><div class="carousel-inner"><div class="item active"><img alt="Slide 1" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Picture3.jpg" /></div><div class="item"><img alt="Slide 2" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" /></div><div class="item"><img alt="Slide 3" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" /></div><div class="item"><img alt="Slide 4" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FabSCAU.jpg" /></div><div class="item"><img alt="Slide 5" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" /></div><div class="item"><img alt="Slide 6" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" /></div></div><p><a class="left carousel-control" role="button" data-slide="prev" href="#carousel"><span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> <span class="sr-only">Previous</span> </a> <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span> <span class="sr-only"><a class="right carousel-control" role="button" data-slide="next" href="#carousel">Next</a></span></p><p>&nbsp;</p></div>
+
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Picture3.jpg" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/FabSCAU.jpg" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tamagochi.jpg" alt="Slide 5" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Group2015_red.jpg" alt="Slide 6" />
+    </div>
+    
 
 This work was supported by National Institutes of Health (NIH) for the research of lung cancer (grants P30CA023108, P20GM103534, and R01LM012012); Transdisciplinary Research in Cancer of the Lung (TRICL) (grant U19CA148127); UICC American Cancer Society Beginning Investigators Fellowship funded by the Union for International Cancer Control (UICC) (to X.J.).
 
